@@ -1,0 +1,85 @@
+div {
+  /* height: 550px; */
+  /* background-color: #B1D7B4; */
+  border: 0px;
+}
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: Cambria ,serif;
+
+}
+hr {
+  background-color:grey;
+  border-style: none;
+  border-top-style: dotted;
+  height: 10px;
+  border-width: 10px;
+  border-color: yellow;
+  /* width: 75%; */
+  margin-top: 0px;
+}
+h1 {
+  color: #432874;
+  margin-top: 0px;
+  font-family: 'Mitr', sans-serif;
+}
+.top-container{
+  position: relative;
+  background-color: #7895B2;
+  padding-top: 100px;
+    width: auto;
+}
+
+.middle-container {
+  height: 350px;
+  width: auto;
+background-color: #7895B2;
+  padding-top: 0px;
+}
+
+.bottom-container {
+  height: 350px;
+  width: auto;
+background-color: #7895B2;
+  padding-top: 0px;
+}
+.b{
+  font-weight: bold;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    width: auto;
+}
+img {
+  width: auto;
+}
+
+
+/* .example-div {
+  height: 300px;
+  width: 300px;
+  background-color: #E6D2AA;
+  border: solid;
+  border-width: 50px;
+  border-top: 10px;
+  margin-top: 20px;
+  padding: 20px;
+} */
+/* .top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+} */
